@@ -2,7 +2,7 @@
 
 These Gurmukhi fonts are created by Paul Alan Grosse.
 I have collected these fonts to distribute it with
-Slackware Linux.This is my own person selection
+Slackware Linux.This is my own personal selection
 of the best fonts.
 
 The followinf fonts are available in this set
